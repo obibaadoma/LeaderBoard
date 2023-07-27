@@ -1,2 +1,148 @@
-# LeaderBoard
-In this activity you will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. You should develop a first working version of the app following a wireframe, but without styling - just focus on functionality. 
+<a name="title"></a>
+
+<!-- TITLE -->
+
+# 🏷️ LeaderBoard
+
+This is the second project in the second module in the **Microverse** program.
+<br/>
+Check the below contents for further details about this project....
+
+<!-- CONTENTS -->
+
+# 📗 Contents
+
+- [🏷️ LeaderBoard](#️-leaderboard)
+- [📗 Contents](#-contents)
+- [📖 Description](#-description)
+- [🛠️ Instructions](#️-instructions)
+- [👥 Authors](#-authors)
+- [🔭 Future](#-future)
+- [🤝🏻 Contributions](#-contributions)
+- [⭐️ Support](#️-support)
+- [🙏🏻 Acknowledgements](#-acknowledgements)
+- [📝 License](#-license)
+
+<!-- DESCRIPTION -->
+
+<a name="description"></a>
+
+# 📖 Description
+
+This project is about building a book management app. It contains three main files (`index.html` / `style.css` / `script.js`,`webpack` ).
+It also includes some config linters for (`HTML` / `CSS3` / `JavaScript`) in the `.github` folder. 
+
+📌 **Live Demo:**
+- See the project live from [here](https://obibaadoma.github.io/LeadderBoard/)
+
+📌 **Tech Stack:**
+- Page strucutre is built with `HTML5`
+- Styling and alignment built with `CSS3`
+- Interaction and dynamic content built with `JavaScript`
+
+📌 **Key Features:**
+- Single page app where all content is loaded dynamically
+- Three navigation links (list / add / contact)
+- Transition effect in content loading
+- Active content link is highlighted
+- Displays a list of books with title and author values
+- Inserts new book with a form input of title and author fields
+- Removes any book item with a relevant remove button
+- Uses an array of objects for handling books data
+- Stores the books array when adding or removing locally
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- INSTRUCTIONS -->
+
+<a name="instructions"></a>
+
+# 🛠️ Instructions
+
+You can easily download or fork this repository and work on it immadiately!
+
+📌 **Prerequisites:**
+- No prior requirements needed!
+
+📌 **Setup:**
+To get a local copy up and running follow these simple example steps.
+
+Open terminal
+Change the directory you want put the repo
+Then run:
+ i. https://obibaadoma.github.io/LeaderBoard/dist/ 
+ii. cd repo-name/
+
+📌 **Deployment:**
+- You can deploy this project by uploading three files (`index.html` / `style.css` / `script.js`) to a live server.
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- AUTHORS -->
+
+<a name="authors"></a>
+
+# 👥 Authors
+
+📌 **Derek:**
+- [GitHub](https://github.com/obibaadoma)
+- [Twitter](https://twitter.com/mobibaadoma)
+- [LinkedIn](https://www.linkedin.com/in/derek-akrasi-konadu-187453151/)
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- FUTURE -->
+
+<a name="future"></a>
+
+# 🔭 Future
+
+Some additional features I may implement in the project:
+- [ ] Backend and database integration
+- [ ] Admin panel for content management
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- CONTRIBUTIONS -->
+
+<a name="contributions"></a>
+
+# 🤝🏻 Contributions
+
+Wish to contribute to this project?
+<br/>
+Contributions, issues, and feature requests are more than welcome!
+<br/>
+Feel free to check the [issues](../../issues) page too.
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- SUPPORT -->
+
+<a name="support"></a>
+
+# ⭐️ Support
+
+Like this project? Show your support by starring!
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+<a name="acknowledgements"></a>
+
+# 🙏🏻 Acknowledgements
+
+I thank everyone at **Microverse** for guiding me through this project.
+
+<p align="right"><a href="#title">back to top</a></p>
+
+<!-- LICENSE -->
+
+<a name="license"></a>
+
+# 📝 License
+
+This project is [MIT](LICENSE.md) licensed.
+
+<p align="right"><a href="#title">back to top</a></p>
